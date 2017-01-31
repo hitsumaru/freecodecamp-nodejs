@@ -1,11 +1,25 @@
 {
-  "name": "freecodecamp",
+  "name": "vmsilva19",
   "version": "1.0.0",
-  "description": "",
+  "description": "freecodecamp nodejs lessons",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "vmsilva19",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmsilva19/freecodecamp-nodejs.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/vmsilva19/freecodecamp-nodejs/issues"
+  },
+  "homepage": "https://github.com/vmsilva19/freecodecamp-nodejs#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
