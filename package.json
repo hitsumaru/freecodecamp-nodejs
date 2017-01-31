@@ -19,7 +19,5 @@
     "url": "https://github.com/vmsilva19/freecodecamp-nodejs/issues"
   },
   "homepage": "https://github.com/vmsilva19/freecodecamp-nodejs#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
